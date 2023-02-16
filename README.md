@@ -13,3 +13,7 @@ Data Source; https://ourworldindata.org/coronavirus#explore-the-global-situation
 Objective;
 To nuild a dashboard wherein tracking the vaccination at a global scale, at a granular level, with GDP used as an index to gauge the relationship
 between a country's effectivity in inoculating its residents in light of its economic capacity. 
+
+Tools Used
+Power Query
+Tableau
